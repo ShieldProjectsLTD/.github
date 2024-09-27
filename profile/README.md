@@ -39,4 +39,4 @@ We offer a wide range of services, including:
 # Contact Us
 (P.S. Некоторая информация в README.md может быть недостоверной, из-за приватных репозитории) 
 Ready to take your digital dreams to the next level? Contact us today to learn more about our services and how we can help you achieve your goals.
-support@shield-projects.ru
+support@shieldprojects.ru
